@@ -1,13 +1,21 @@
 {
-  "name": "ui-theme-template",
-  "theme": "ui",
-  "version": "0.0.0",
-  "description": "A short description of your UI theme",
+  "name": "slot-deposit-pulsa",
+  "main": "./slots/slot-deposit-pulsa",
+  "version": "0.5.0",
+  "description": "Daftar slot gacor terbaru hari ini",
   "keywords": [
-    "ui",
-    "theme"
-  ],
-  "repository": "https://github.com/atom-community/ui-theme-template",
+     "Slot Deposit Pulsa",
+     "Slot Deposit Pulsa Tanpa Potongan",
+     "Slot Pulsa",
+     "Slot Pulsa 5000",
+     "Slot Pulsa 5000 Tanpa Potongan",
+     "Slot Pulsa Tanpa Potongan",
+     "Slot Via Pulsa"
+   ],
+  "activationCommands": {
+  "atom-workspace": "daftar-slot-via-pulsa:toggle"
+  },
+  "repository": "https://github.com/Slot-Online-Gacor-5000/slot-pulsa-5000",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
