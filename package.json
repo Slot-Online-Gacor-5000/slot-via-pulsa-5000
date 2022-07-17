@@ -1,7 +1,7 @@
 {
   "name": "slot-deposit-pulsa",
   "main": "./slots/slot-deposit-pulsa",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Daftar slot gacor terbaru hari ini",
   "keywords": [
     "Slot Deposit Pulsa",
