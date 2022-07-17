@@ -1,8 +1,8 @@
 {
   "name": "slot-deposit-pulsa-5000",
-  "main": "./slots/slot-deposit-pulsa",
+  "main": "./slots/slot-pulsa-5000",
   "version": "2.0.0",
-  "description": "Daftar slot gacor terbaru hari ini",
+  "description": "Daftar slot deposit pulsa 5000",
   "keywords": [
     "Slot Deposit Pulsa",
     "Slot Deposit Pulsa Tanpa Potongan",
@@ -13,7 +13,7 @@
     "Slot Via Pulsa"
   ],
   "activationCommands": {
-    "atom-workspace": "daftar-slot-via-pulsa:toggle"
+    "atom-workspace": "slot-pulsa-5000:toggle"
   },
   "repository": "https://github.com/Slot-Online-Gacor-5000/slot-pulsa-5000",
   "license": "MIT",
