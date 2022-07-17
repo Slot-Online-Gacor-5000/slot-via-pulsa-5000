@@ -1,7 +1,7 @@
 {
   "name": "slot-deposit-pulsa-5000",
   "main": "./slots/slot-pulsa-5000",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "description": "Daftar slot deposit pulsa 5000",
   "keywords": [
     "Slot Deposit Pulsa",
