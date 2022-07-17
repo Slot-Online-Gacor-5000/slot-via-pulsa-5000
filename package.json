@@ -1,19 +1,19 @@
 {
   "name": "slot-deposit-pulsa",
   "main": "./slots/slot-deposit-pulsa",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Daftar slot gacor terbaru hari ini",
   "keywords": [
-     "Slot Deposit Pulsa",
-     "Slot Deposit Pulsa Tanpa Potongan",
-     "Slot Pulsa",
-     "Slot Pulsa 5000",
-     "Slot Pulsa 5000 Tanpa Potongan",
-     "Slot Pulsa Tanpa Potongan",
-     "Slot Via Pulsa"
-   ],
+    "Slot Deposit Pulsa",
+    "Slot Deposit Pulsa Tanpa Potongan",
+    "Slot Pulsa",
+    "Slot Pulsa 5000",
+    "Slot Pulsa 5000 Tanpa Potongan",
+    "Slot Pulsa Tanpa Potongan",
+    "Slot Via Pulsa"
+  ],
   "activationCommands": {
-  "atom-workspace": "daftar-slot-via-pulsa:toggle"
+    "atom-workspace": "daftar-slot-via-pulsa:toggle"
   },
   "repository": "https://github.com/Slot-Online-Gacor-5000/slot-pulsa-5000",
   "license": "MIT",
